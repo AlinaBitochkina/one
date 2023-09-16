@@ -1,0 +1,14 @@
+C:\Users\alina\Desktop\examples\bin\Debug\net7.0\examples.exe
+C:\Users\alina\Desktop\examples\bin\Debug\net7.0\examples.deps.json
+C:\Users\alina\Desktop\examples\bin\Debug\net7.0\examples.runtimeconfig.json
+C:\Users\alina\Desktop\examples\bin\Debug\net7.0\examples.dll
+C:\Users\alina\Desktop\examples\bin\Debug\net7.0\examples.pdb
+C:\Users\alina\Desktop\examples\obj\Debug\net7.0\examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alina\Desktop\examples\obj\Debug\net7.0\examples.AssemblyInfoInputs.cache
+C:\Users\alina\Desktop\examples\obj\Debug\net7.0\examples.AssemblyInfo.cs
+C:\Users\alina\Desktop\examples\obj\Debug\net7.0\examples.csproj.CoreCompileInputs.cache
+C:\Users\alina\Desktop\examples\obj\Debug\net7.0\examples.dll
+C:\Users\alina\Desktop\examples\obj\Debug\net7.0\refint\examples.dll
+C:\Users\alina\Desktop\examples\obj\Debug\net7.0\examples.pdb
+C:\Users\alina\Desktop\examples\obj\Debug\net7.0\examples.genruntimeconfig.cache
+C:\Users\alina\Desktop\examples\obj\Debug\net7.0\ref\examples.dll
